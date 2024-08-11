@@ -1,5 +1,7 @@
 # django_tiptap
 
+
+
 Django admin TipTap integration. Provides a `TipTapTextField` and `TipTapWidget` that
 allow you to use TipTap in your Django forms and admin pages.
 
